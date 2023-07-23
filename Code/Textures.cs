@@ -1,0 +1,4 @@
+static class CustomTextures {
+    public static class_126 KnightArmGripperLightingLeft = new class_126(class_235.method_615("textures/parts/gripper_plate_knight.lighting/left_left"), class_235.method_615("textures/parts/gripper_plate_knight.lighting/right_left"), class_235.method_615("textures/parts/gripper_plate_knight.lighting/bottom_left"), class_235.method_615("textures/parts/gripper_plate_knight.lighting/top_left"));
+    public static class_126 KnightArmGripperLightingRight = new class_126(class_235.method_615("textures/parts/gripper_plate_knight.lighting/left_right"), class_235.method_615("textures/parts/gripper_plate_knight.lighting/right_right"), class_235.method_615("textures/parts/gripper_plate_knight.lighting/bottom_right"), class_235.method_615("textures/parts/gripper_plate_knight.lighting/top_right"));
+}
