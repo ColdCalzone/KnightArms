@@ -2,6 +2,7 @@ Name: KnightArms
 Title: Knight Arms
 Desc: Adds arms which bend one hex over, accessible by pressing K or Shift+K on any *fixed length* arm.
 Version: 0.1.0
+Icon: "knightarms_icon"
 DLL: "Code/bin/Debug/net452/KnightArms.dll"
 Dependencies:
 - Name: Quintessential
